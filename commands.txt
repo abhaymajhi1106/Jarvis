@@ -1,0 +1,34 @@
+**INTRODUCTION:**
+This is a Jarvis made by me.it is a simple assistant tool made by using html, css and javascript. It done various task given below.....
+######################
+**COMMANDS:**
+1.INTRODUCE YOURSELF
+2.START MATRIX EFFECT or MATRIX EFFECT
+3.COUNTRY'S INFORMATION
+4.FLASHLIGHT ON
+5.FLASHLIGHT OFF
+6.PLAY <song name or movie name or others>
+7.INFORMATION REGARDING <atomic bomb or dog or cat or others>
+8.WHAT IS <newton's laws or others>
+9.DATE
+10.TIME
+11.CONNECTION STATUS
+12.CURRENT CHARGE
+13.TOP HEADLINES
+14.NEWS REGARDING <inflation or others>
+15.GO BACK
+16.OPEN GOOGLE
+17.VIBRATE or START VIBRATION 
+18.CLOSE TABS or CLOSE 
+19.OPEN GAME or OPEN TIC TAC TOE or TIC TAC TOE
+20.LOCATION
+21.CHANGE BACKGROUND INTO <red or blue or anyColor>
+22.PRINT
+23.OPEN INSTAGRAM
+24.OPEN CALENDER
+25.OPEN TWITTER 
+26.OPEN FIREBASE
+27.OPEN WHATSAPP
+28.OPEN SPOTIFY
+29.HOW ARE YOU
+30.NAME
